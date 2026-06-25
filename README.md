@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=gradient&customColorList=0,2,2,5,30&text=MADDILA%20SURYA%20PRAKASH&fontSize=42&fontColor=00D4AA&desc=AI%20Product%20Builder%20%7C%20SaaS%20and%20Fintech%20Operator&descColor=FF6B6B&descSize=18&animation=fadeIn&stroke=00D4AA&strokeWidth=1" width="100%"/>
 </div>
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00D4AA&background=0D111700&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%24+whoami+--+AI+Product+Builder+%7C+SaaS+%26+Fintech+Founder;%24+stack+--+Python+%7C+Next.js+%7C+FastAPI+%7C+Supabase+%7C+Docker;%24+building+--+AutoReconcile+%7C+ATS+Resume+Bot+%7C+SM+Automation;%24+domain+--+SaaS+%2F+Fintech+%2F+AI+Tooling+%2F+Automation;%24+status+--+Open+to+Work+%7C+Ready+to+Ship)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&pause=1000&color=00D4AA&background=0D111700&amp;center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=%24+whoami+--+AI+Product+Builder+%7C+SaaS+%26+Fintech+Founder;%24+stack+--+Python+%7C+Next.js+%7C+FastAPI+%7C+Supabase+%7C+Docker;%24+building+--+AutoReconcile+%7C+ATS+Resume+Bot+%7C+SM+Automation;%24+domain+--+SaaS+%2F+Fintech+%2F+AI+Tooling+%2F+Automation;%24+status+--+Open+to+Work+%7C+Ready+to+Ship)](https://git.io/typing-svg)
  
 </div>
 ---
@@ -332,6 +332,6 @@ open_to:
  
 </div>
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=gradient&customColorList=0,2,2,5,30&reversal=false&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=wave&height=120&color=gradient&customColorList=0,2,2,5,30&reversal=false&amp;section=footer" width="100%"/>
 </div>
  
